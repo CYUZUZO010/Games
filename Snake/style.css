@@ -6,6 +6,10 @@
 #gameBoard {
     border: 3px solid;
 }
+h2 {
+    font-size: 2.5rem;
+    font-color: hsl(0, 0%, 20%);
+}
 #scoreText{
     font-family: "Permanent Marker", cursive;
     font-size: 100px;
