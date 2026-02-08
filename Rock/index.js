@@ -39,7 +39,8 @@ function playGame(playerChoice){
 
     switch(result){
         case "YOU WIN 🎉💪!!":
-            resultDisplay.classList.add("greenText")//add the css class greenText to the resultDisplay;
+            resultDisplay.classList.add("greenText")
+            //add the css class greenText to the resultDisplay;
             break;
 
         case "YOU LOSE! 😔😥":
