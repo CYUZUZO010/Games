@@ -14,7 +14,7 @@ const unitSize = 25//the size of everything in the game
 let running = false;
 let xVelocity =  unitSize;//how far we move the snake along the x axis
 let yVelocity = -unitSize;
-//to move up we set the uzitSize to the neg
+
 let foodX;
 let foodY;
 
